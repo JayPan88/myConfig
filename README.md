@@ -1,0 +1,2 @@
+# myConfig
+spring cloud config
